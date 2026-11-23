@@ -1,6 +1,6 @@
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_BASE_URL || "akashkumar01.pythonanywhere.com";
+  import.meta.env.VITE_API_BASE_URL || "https://akashkumar01.pythonanywhere.com";
 
 export interface RegisterData {
   username: string;
